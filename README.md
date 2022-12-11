@@ -9,7 +9,7 @@ But after the timer sends the interrupt signal, the light turns yellow.
 After another 3s, the light turns green. 
 Then, it will turn red again after another 3s.
 
-Please design a traffic light use case defined above by using:
+Please simulate and design a traffic light use case defined above by using:
     
 - FSM
 - Transition table
