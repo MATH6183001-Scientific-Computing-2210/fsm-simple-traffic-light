@@ -75,9 +75,9 @@ int main(void){
             calcNextState(presentState,input,nextState);
             
             // display
-            printState(presentState);
-            printOutput(output);
-            // displayOutput(i,output);
+            //printState(presentState);
+            //printOutput(output);
+            displayOutput(i,output);
 
             // assign present state as the next state
             presentState[0] = nextState[0];
